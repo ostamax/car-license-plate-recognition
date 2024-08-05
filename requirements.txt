@@ -1,0 +1,6 @@
+easyocr
+Flask
+numpy
+opencv-python
+Pillow
+ultralytics
