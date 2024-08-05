@@ -10,4 +10,4 @@ INPUT_DATA = "./data/"
 STATIC_DATA = "./static/"
 
 RAW_IMAGE_NAME = "raw_image.jpg"
-DETECTED_PLATE_NAME = ""
+DETECTED_PLATE_NAME = "detected_plate.jpg"
