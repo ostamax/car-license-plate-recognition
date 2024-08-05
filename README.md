@@ -16,4 +16,4 @@ Then, run an app:
 `python app.py`
 
 Here is the result of testing the service:
-![alt text](image.png)
+![alt text](result.JPG)
